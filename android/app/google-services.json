@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "300114761294",
+    "project_id": "noteus-9921k",
+    "storage_bucket": "noteus-9921k.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300114761294:android:1c33761789613872c7d51f",
+        "android_client_info": {
+          "package_name": "com.wes.noteus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoBG9LaLOE-7Wm89gjSJmAf0ZrJjnmx4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
